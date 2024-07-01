@@ -1,4 +1,5 @@
-# AI - Image Master Hackathon
+# AI - Image Master Hackathon  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/techie-subhadeep/ai-image-hackathon/blob/main/colab.ipynb)
+
 
 ![banner](./assets/banner.png)
 
