@@ -1,0 +1,2 @@
+# OpenAPI Key
+OPENAI_API_KEY=
